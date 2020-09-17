@@ -1,0 +1,6 @@
+*/secrets.h
+test/
+.*
+!.gitignore
+server/.env
+test-client/datas/*
